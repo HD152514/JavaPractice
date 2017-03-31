@@ -69,5 +69,5 @@ public class Loop {
 			
 		}while(choice !=9);
 		
-	}
+		}
 	}
