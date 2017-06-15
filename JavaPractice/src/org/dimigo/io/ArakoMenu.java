@@ -32,6 +32,7 @@ public class ArakoMenu {
          String str;
          while ((str = br.readLine()) != null) {
             writer.write(str+"\n");
+            
          }
          System.out.println("<< 메뉴 출력 >>");
          writer.flush();
